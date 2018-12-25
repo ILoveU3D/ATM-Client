@@ -1,0 +1,4 @@
+普通信用账户
+{"ceiling":123.0,"id":10001,"passWord":1234,"name":"王煜康","personId":"123456","email":"123456","balance":1020.0}
+普通信用账户
+{"loan":0.0,"ceiling":1233.0,"id":10002,"passWord":1234,"name":"王泓洲","personId":"45878","email":"gay@prohub.com","balance":436.0}
